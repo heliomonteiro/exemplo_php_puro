@@ -1,0 +1,12 @@
+{
+    "name": "helio/exemplo_php_puro",
+    "authors": [
+        {
+            "name": "Hélio Luiz Monteiro Júnior",
+            "email": "heliojr.monteiro@yahoo.com.br"
+        }
+    ],
+    "require": {
+        "guzzle/guzzle": "3.8.1"
+    }
+}
