@@ -1,6 +1,6 @@
 <?php
 
-namespace SON\Model;
+namespace SON\Teste\Model;
 
 class Client{
 	public $name;
